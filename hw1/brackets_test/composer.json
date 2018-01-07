@@ -1,0 +1,15 @@
+{
+    "name": "shsergey17/test",
+    "authors": [
+        {
+            "name": "shsergey17",
+            "email": "shsergey17@mail.ru"
+        }
+    ],
+    "require": {
+        "shsergey17/brackets": "dev-master"
+    },
+    "require-dev":{
+        "phpunit/phpunit": "5.*"
+    }
+}
